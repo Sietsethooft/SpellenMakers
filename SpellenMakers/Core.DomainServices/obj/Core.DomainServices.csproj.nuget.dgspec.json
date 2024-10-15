@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\spellenmakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj": {}
+    "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\SpellenMakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj": {}
   },
   "projects": {
-    "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\spellenmakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj": {
+    "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\SpellenMakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\spellenmakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj",
+        "projectUniqueName": "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\SpellenMakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj",
         "projectName": "Core.DomainServices",
-        "projectPath": "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\spellenmakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj",
+        "projectPath": "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\SpellenMakers\\SpellenMakers\\Core.DomainServices\\Core.DomainServices.csproj",
         "packagesPath": "C:\\Users\\siets\\.nuget\\packages\\",
         "outputPath": "C:\\Documenten\\Jaar 2\\Periode 1\\SSWF project\\SpellenMakers\\SpellenMakers\\Core.DomainServices\\obj\\",
         "projectStyle": "PackageReference",
